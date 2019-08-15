@@ -111,8 +111,3 @@ See EDA-function notebook for clean final version.
 
 ### Executive Summary
 I am confident with my model.  It has high accuracy score that are similar for the both the train and test data.  Therefore I have low variance and low bias.  There are a few outliers that tell me the model is not scoring as well on a few high price homes so there is still room to improve.  With more time and resources I would dive deeper into the categorical feature, neighboorhoods because I found that houses over $500,000 were all in only two places.  
-
- 
-#### Presentation slides
-https://docs.google.com/presentation/d/1qXfAifGS5OcQ6zycz_7ihs4Av5QF0LaQBAVDFl7GGHE/edit?usp=sharing
-
