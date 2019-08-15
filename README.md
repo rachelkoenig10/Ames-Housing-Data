@@ -1,6 +1,6 @@
 # Ames Housing Data
 
-## By: Rachel Koenig
+By: Rachel Koenig
 
 _____
 
